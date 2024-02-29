@@ -1,0 +1,233 @@
+#rollover1 {
+  position: absolute; top: 408px; left: 149px;
+}
+.shape {
+  width: 270px;
+  height: 400px;
+  border: 3px solid black;
+  position: absolute; top: 650px; left: 400;
+  transition: 0.2s ease-in-out;
+  border-radius: 10px;
+}
+.button {
+  background-color: #000000;
+  color: #ffffff;
+  font-size: 16px;
+  padding: 10px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+#img1 {
+  transform: scale(0.3);
+  position: absolute; top: 90px; left: 30px;
+}
+.shape1 {
+  width: 270px;
+  height: 300px;
+  border: 3px solid black;
+  position: absolute; top: 650px; left: 600;
+  transition: 0.2s ease-in-out;
+  border-radius: 10px;
+}
+.button1 {
+  background-color: #000000;
+  color: #ffffff;
+  font-size: 16px;
+  padding: 10px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+#img2 {
+  transform: scale(0.7);
+  position: absolute; top: 550px; left: 900px;
+}
+          #rollover2 {
+            position: absolute; top: 408px; left: 469px;
+          }
+          .shape3 {
+            width: 230px;
+            height: 300px;
+            border: 3px solid black;
+            position: absolute; top: 650px; left: 600;
+            transition: 0.2s ease-in-out;
+            border-radius: 10px;
+          }
+          .button3 {
+            background-color: #000000;
+            color: #ffffff;
+            font-size: 16px;
+            padding: 10px;
+            border-radius: 5px;
+            text-decoration: none;
+          }
+          #img3 {
+            transform: scale(0.7);
+            position: absolute; top: 570px; left: 300px;
+          }
+          .shape4 {
+            width: 270px;
+            height: 270px;
+            border: 3px solid black;
+            position: absolute; top: 630px; left: 600;
+            transition: 0.2s ease-in-out;
+            border-radius: 10px;
+          }
+          .button4 {
+            background-color: #000000;
+            color: #ffffff;
+            font-size: 16px;
+            padding: 10px;
+            border-radius: 5px;
+            text-decoration: none;
+          }
+          #img4 {
+            transform: scale(0.7);
+            position: absolute; top: 550px; left: 900px;
+          }
+                    #rollover3 {
+                      position: absolute; top: 408px; left: 789px;
+                    }
+                    .shape5 {
+                      width: 230px;
+                      height: 360px;
+                      border: 3px solid black;
+                      position: absolute; top: 650px; left: 600;
+                      transition: 0.2s ease-in-out;
+                      border-radius: 10px;
+                    }
+                    .button5 {
+                      background-color: #000000;
+                      color: #ffffff;
+                      font-size: 16px;
+                      padding: 10px;
+                      border-radius: 5px;
+                      text-decoration: none;
+                    }
+                    #img5 {
+                      transform: scale(0.7);
+                      position: absolute; top: 570px; left: 300px;
+                    }
+                    .shape6 {
+                      width: 270px;
+                      height: 350px;
+                      border: 3px solid black;
+                      position: absolute; top: 650px; left: 600;
+                      transition: 0.2s ease-in-out;
+                      border-radius: 10px;
+                    }
+                    .button6 {
+                      background-color: #000000;
+                      color: #ffffff;
+                      font-size: 16px;
+                      padding: 10px;
+                      border-radius: 5px;
+                      text-decoration: none;
+                    }
+                    #img6 {
+                      transform: scale(0.7);
+                      position: absolute; top: 565px; left: 900px;
+                    }
+                              #rollover4 {
+                                position: absolute; top: 408px; left: 1109px;
+                              }
+                              .shape7 {
+                                width: 230px;
+                                height: 360px;
+                                border: 3px solid black;
+                                position: absolute; top: 650px; left: 600;
+                                transition: 0.2s ease-in-out;
+                                border-radius: 10px;
+                              }
+                              .button7 {
+                                background-color: #000000;
+                                color: #ffffff;
+                                font-size: 16px;
+                                padding: 10px;
+                                border-radius: 5px;
+                                text-decoration: none;
+                              }
+                              #img7 {
+                                transform: scale(0.8);
+                                position: absolute; top: 570px; left: 300px;
+                              }
+                              .shape8 {
+                                width: 270px;
+                                height: 350px;
+                                border: 3px solid black;
+                                position: absolute; top: 650px; left: 600;
+                                transition: 0.2s ease-in-out;
+                                border-radius: 10px;
+                              }
+                              .button8 {
+                                background-color: #000000;
+                                color: #ffffff;
+                                font-size: 16px;
+                                padding: 10px;
+                                border-radius: 5px;
+                                text-decoration: none;
+                              }
+                              #img8 {
+                                transform: scale(0.7);
+                                position: absolute; top: 565px; left: 900px;
+                              }
+                                                  #rollover5 {
+                                          position: absolute; top: 408px; left: 1429px;
+                                        }
+                                        .shape9 {
+                                          width: 230px;
+                                          height: 360px;
+                                          border: 3px solid black;
+                                          position: absolute; top: 650px; left: 600;
+                                          transition: 0.2s ease-in-out;
+                                          border-radius: 10px;
+                                        }
+                                        .button9 {
+                                          background-color: #000000;
+                                          color: #ffffff;
+                                          font-size: 16px;
+                                          padding: 10px;
+                                          border-radius: 5px;
+                                          text-decoration: none;
+                                        }
+                                        #img9 {
+                                          transform: scale(0.8);
+                                          position: absolute; top: 570px; left: 300px;
+                                        }
+                                        .shape10 {
+                                          width: 270px;
+                                          height: 350px;
+                                          border: 3px solid black;
+                                          position: absolute; top: 650px; left: 600;
+                                          transition: 0.2s ease-in-out;
+                                          border-radius: 10px;
+                                        }
+                                        .button10 {
+                                          background-color: #000000;
+                                          color: #ffffff;
+                                          font-size: 16px;
+                                          padding: 10px;
+                                          border-radius: 5px;
+                                          text-decoration: none;
+                                        }
+                                        #img10 {
+                                          transform: scale(0.9);
+                                          position: absolute; top: 600px; left: 900px;
+                                        }
+.Flooter1 {
+   position: absolute; top: 1300px; left: 150px;
+}
+p {
+  position: absolute; top: 780px; left: 440px;
+  font-size: 80px;
+  background-color: #FFFFFF;
+  border-radius: 20px;
+}
+.Home {
+  position: absolute; top: 550px; left: 250px;
+  background-color: #000000;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  text-decoration: none;
+}
